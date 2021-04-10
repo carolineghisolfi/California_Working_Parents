@@ -8,8 +8,7 @@ I downloaded the data for weeks 1 through 25 of the pandemic from the U.S. Censu
 
 ## The Analysis
 I conducted my analysis in Python. The code is split into three Jupyter Notebooks:
-
-1. <a href: 'https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/data_vetting.ipynb'>Data Vetting</a>
-2. <a href: 'https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/data_prep.ipynb'>Data Prep</a>
-3. <a href: 'https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/data_analysis.ipynb'>Data Analysis</a>
+1. [Data Vetting](https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/data_vetting.ipynb)
+2. [Data Prep](https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/data_prep.ipynb)
+3. [Data Analysis](https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/data_analysis.ipynb)
 
