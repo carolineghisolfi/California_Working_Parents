@@ -1,0 +1,24 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+jupyterlab = "*"
+pandas = "*"
+matplotlib = "*"
+tabula-py = "*"
+plotly = "==4.8.2"
+plotly-express = "*"
+ipywidgets = ">=7.5"
+nodejs = "*"
+notebook = ">=5.3"
+jupyter-contrib-nbextensions = "*"
+chart-studio = "*"
+colorlover = "*"
+
+[requires]
+python_version = "3.8"
