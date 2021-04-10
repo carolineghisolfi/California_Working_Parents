@@ -7,4 +7,9 @@ The purpose of this project is to shed light on the challenges that working pare
 I downloaded the data for weeks 1 through 25 of the pandemic from the U.S. Census Bureau Household Pulse Survey Public Use files (https://www.census.gov/programs-surveys/household-pulse-survey/datasets.html). Each week's data is published in a separate csv file. The Census also publishes weekly data dictionaries in excel format.
 
 ## The Analysis
-I conducted my analysis in Python. The code can be found <a href='https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/pulse_3.ipynb'>here</a>. 
+I conducted my analysis in Python. The code is split into three Jupyter Notebooks:
+
+1. <a href: 'https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/data_vetting.ipynb'>Data Vetting</a>
+2. <a href: 'https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/data_prep.ipynb'>Data Prep</a>
+3. <a href: 'https://github.com/carolineghisolfi/California_Working_Parents/blob/main/notebooks/data_analysis.ipynb'>Data Analysis</a>
+
